@@ -9,3 +9,8 @@ Training repository to practice some basic `git` functions
 2. This is Jenny's second commit
 
 3. This is Makayla's first commit!!
+
+- [x] Create new branch
+- [x] Add file
+- [x] Change README.md (multiple times)
+- [x] Squash ?
